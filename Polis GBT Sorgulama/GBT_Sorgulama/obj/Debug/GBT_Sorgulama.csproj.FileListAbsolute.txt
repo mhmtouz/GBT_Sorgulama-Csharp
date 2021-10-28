@@ -1,0 +1,139 @@
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+E:\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+E:\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+E:\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmAnasayfa.resources
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+E:\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmAnasayfa.resources
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\lab1\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\mhmt\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\ABDULLAH\Desktop\GBT_Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulamason\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\Samsung_\Desktop\3-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+H:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+G:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+G:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+G:\5-6-16\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\lab1\Desktop\GBT_Sorgulamasonson\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+E:\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+E:\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+E:\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+E:\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+C:\Users\mhmt\Desktop\146206051_MehmetUğuz\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+C:\Users\mhmt\Desktop\146206051\Polis GBT Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+C:\Users\mhmt\Desktop\146206051\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+C:\Users\mhmt\Desktop\146206051\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.pdb
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmGiris.resources
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.frmKayitEkleSilDegis.resources
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Options.resources
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.Properties.Resources.resources
+F:\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.csproj.GenerateResource.Cache
+D:\Çalışmalar\son\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\bin\Debug\GBT_Sorgulama.exe.config
+D:\Çalışmalar\son\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.exe
+D:\Çalışmalar\son\146206051_MehmetUĞUZ\Polis GBT Sorgulama\GBT_Sorgulama\obj\Debug\GBT_Sorgulama.pdb

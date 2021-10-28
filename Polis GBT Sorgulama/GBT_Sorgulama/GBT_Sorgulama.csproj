@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GBT_Sorgulama</RootNamespace>
+    <AssemblyName>GBT_Sorgulama</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKayitEkleSilDegis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKayitEkleSilDegis.Designer.cs">
+      <DependentUpon>frmKayitEkleSilDegis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GBT_SorgulamaDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GBT_SorgulamaDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Options.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Options.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKayitEkleSilDegis.resx">
+      <DependentUpon>frmKayitEkleSilDegis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Options.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="GBT_SorgulamaDataSet.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet.xss">
+      <DependentUpon>GBT_SorgulamaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet1.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet1.xss">
+      <DependentUpon>GBT_SorgulamaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet2.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet2.xss">
+      <DependentUpon>GBT_SorgulamaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet3.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet3.xss">
+      <DependentUpon>GBT_SorgulamaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet4.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet4.xss">
+      <DependentUpon>GBT_SorgulamaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet5.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet5.xss">
+      <DependentUpon>GBT_SorgulamaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet6.xsc">
+      <DependentUpon>GBT_SorgulamaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="GBT_SorgulamaDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GBT_SorgulamaDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GBT_SorgulamaDataSet6.xss">
+      <DependentUpon>GBT_SorgulamaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="options\arkaplanMavi.jpg" />
+    <Content Include="options\arkaplanPembe.jpg" />
+    <Content Include="options\arkaplanYesil.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

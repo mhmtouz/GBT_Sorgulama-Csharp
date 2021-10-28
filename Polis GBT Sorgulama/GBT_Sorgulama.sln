@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBT_Sorgulama", "GBT_Sorgulama\GBT_Sorgulama.csproj", "{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GBT_Setup", "GBT_Setup\GBT_Setup.vdproj", "{6DECA215-A4A6-41A2-B72D-622606184358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C55C1F-F98D-4AA8-8C53-A07EDB479208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DECA215-A4A6-41A2-B72D-622606184358}.Debug|Any CPU.ActiveCfg = Debug
+		{6DECA215-A4A6-41A2-B72D-622606184358}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
